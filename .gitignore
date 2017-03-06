@@ -1,0 +1,14 @@
+/node_modules
+/npm-debug.log
+/build
+.DS_Store
+/coverage
+/.idea
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+yarn.lock
+.editorconfig
